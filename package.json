@@ -1,0 +1,13 @@
+{
+  "name": "proyecto_juanda",
+  "version": "1.0.0",
+  "description": "aprender sobre node js y npm , typescrip",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "typescript": "^7.0.2"
+  }
+}
