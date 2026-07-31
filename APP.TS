@@ -20,3 +20,5 @@ const user2: User ={
     email:"PEDERO@edu.com"
 }
 
+console.log(user
+)
