@@ -22,3 +22,4 @@ const user2: User ={
 
 console.log(user
 )
+console.log("estoy creando un nuevo una nueva rama para hacer un commit")
